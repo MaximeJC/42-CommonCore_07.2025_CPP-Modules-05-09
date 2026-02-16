@@ -18,5 +18,5 @@ The goal of this project is to learn both CPP basics and object-oriented program
 - CPP 08: Templated containers, iterators, algorithms
 - CPP 09: STL
 
-_Common Core Rank 05 - Completed in October 2025_
+_Common Core Rank 05 - Completed in October 2025_  
 _Code by me_
