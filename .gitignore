@@ -7,6 +7,9 @@ obj/
 *.exe
 *.app
 Makefile.gen
+btc
+RPN
+PmergeMe
 
 # Precompiled Headers
 *.gch
