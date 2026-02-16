@@ -1,0 +1,21 @@
+# Created objects and program executable
+obj/
+*.a
+*.o
+*.obj
+*.out
+*.exe
+*.app
+Makefile.gen
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# VSCode
+.vscode
+*.code-workspace
+
+# Misc
+*_shrubbery
+test
